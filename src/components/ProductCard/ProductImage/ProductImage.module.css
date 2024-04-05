@@ -1,0 +1,9 @@
+.image {
+    width: 80px;
+}
+
+.imageContainer {
+    display: flex;
+    align-items: center;
+    height: 150px;
+}
